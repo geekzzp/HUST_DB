@@ -1,6 +1,6 @@
 # CMake generated Testfile for 
-# Source directory: /home/zzp/x3z6tb8we220240613170711/rmdb/src/record
-# Build directory: /home/zzp/x3z6tb8we220240613170711/rmdb/build/src/record
+# Source directory: /home/zzp/HUST_DB/rmdb/src/record
+# Build directory: /home/zzp/HUST_DB/rmdb/build/src/record
 # 
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.

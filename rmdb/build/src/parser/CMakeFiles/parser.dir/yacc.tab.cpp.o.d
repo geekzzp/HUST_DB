@@ -1,7 +1,6 @@
 src/parser/CMakeFiles/parser.dir/yacc.tab.cpp.o: \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/parser/yacc.tab.cpp \
- /usr/include/stdc-predef.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/parser/ast.h \
+ /home/zzp/HUST_DB/rmdb/src/parser/yacc.tab.cpp \
+ /usr/include/stdc-predef.h /home/zzp/HUST_DB/rmdb/src/parser/ast.h \
  /usr/include/c++/7/vector /usr/include/c++/7/bits/stl_algobase.h \
  /usr/include/x86_64-linux-gnu/c++/7/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/7/bits/os_defines.h \
@@ -138,9 +137,9 @@ src/parser/CMakeFiles/parser.dir/yacc.tab.cpp.o: \
  /usr/include/c++/7/bits/atomic_base.h \
  /usr/include/c++/7/bits/atomic_lockfree_defines.h \
  /usr/include/c++/7/backward/auto_ptr.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/parser/yacc.tab.h \
- /usr/include/c++/7/iostream /usr/include/c++/7/ostream \
- /usr/include/c++/7/ios /usr/include/c++/7/bits/ios_base.h \
+ /home/zzp/HUST_DB/rmdb/src/parser/yacc.tab.h /usr/include/c++/7/iostream \
+ /usr/include/c++/7/ostream /usr/include/c++/7/ios \
+ /usr/include/c++/7/bits/ios_base.h \
  /usr/include/c++/7/bits/locale_classes.h \
  /usr/include/c++/7/bits/locale_classes.tcc \
  /usr/include/c++/7/system_error \

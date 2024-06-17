@@ -1,7 +1,7 @@
 src/replacer/CMakeFiles/lru_replacer.dir/clock_replacer.cpp.o: \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/replacer/clock_replacer.cpp \
+ /home/zzp/HUST_DB/rmdb/src/replacer/clock_replacer.cpp \
  /usr/include/stdc-predef.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/replacer/clock_replacer.h \
+ /home/zzp/HUST_DB/rmdb/src/replacer/clock_replacer.h \
  /usr/include/c++/7/mutex /usr/include/c++/7/tuple \
  /usr/include/c++/7/utility \
  /usr/include/x86_64-linux-gnu/c++/7/bits/c++config.h \
@@ -131,10 +131,10 @@ src/replacer/CMakeFiles/lru_replacer.dir/clock_replacer.cpp.o: \
  /usr/include/c++/7/bits/stl_uninitialized.h \
  /usr/include/c++/7/bits/stl_vector.h \
  /usr/include/c++/7/bits/stl_bvector.h /usr/include/c++/7/bits/vector.tcc \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/common/config.h \
- /usr/include/c++/7/atomic /usr/include/c++/7/bits/atomic_base.h \
+ /home/zzp/HUST_DB/rmdb/src/common/config.h /usr/include/c++/7/atomic \
+ /usr/include/c++/7/bits/atomic_base.h \
  /usr/include/c++/7/bits/atomic_lockfree_defines.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/replacer/replacer.h \
+ /home/zzp/HUST_DB/rmdb/src/replacer/replacer.h \
  /usr/include/c++/7/algorithm /usr/include/c++/7/bits/stl_algo.h \
  /usr/include/c++/7/bits/algorithmfwd.h \
  /usr/include/c++/7/bits/stl_heap.h /usr/include/c++/7/bits/stl_tempbuf.h \

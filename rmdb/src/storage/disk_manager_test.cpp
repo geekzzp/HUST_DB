@@ -48,6 +48,7 @@ class DiskManagerTest : public ::testing::Test {
         ::testing::Test::SetUp();
         // 对于每个测试点，创建一个disk manager
         disk_manager_ = std::make_unique<DiskManager>();
+
         // 如果测试目录不存在，则先创建测试目录
         try {
             if (!disk_manager_->is_dir(TEST_DB_NAME)) {

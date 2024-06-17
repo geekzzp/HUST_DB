@@ -1,7 +1,7 @@
 src/replacer/CMakeFiles/clock_replacer.dir/lru_replacer.cpp.o: \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/replacer/lru_replacer.cpp \
+ /home/zzp/HUST_DB/rmdb/src/replacer/lru_replacer.cpp \
  /usr/include/stdc-predef.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/replacer/lru_replacer.h \
+ /home/zzp/HUST_DB/rmdb/src/replacer/lru_replacer.h \
  /usr/include/c++/7/list /usr/include/c++/7/bits/stl_algobase.h \
  /usr/include/x86_64-linux-gnu/c++/7/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/7/bits/os_defines.h \
@@ -133,10 +133,10 @@ src/replacer/CMakeFiles/clock_replacer.dir/lru_replacer.cpp.o: \
  /usr/include/c++/7/bits/stl_uninitialized.h \
  /usr/include/c++/7/bits/stl_vector.h \
  /usr/include/c++/7/bits/stl_bvector.h /usr/include/c++/7/bits/vector.tcc \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/common/config.h \
- /usr/include/c++/7/atomic /usr/include/c++/7/bits/atomic_base.h \
+ /home/zzp/HUST_DB/rmdb/src/common/config.h /usr/include/c++/7/atomic \
+ /usr/include/c++/7/bits/atomic_base.h \
  /usr/include/c++/7/bits/atomic_lockfree_defines.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/replacer/replacer.h \
+ /home/zzp/HUST_DB/rmdb/src/replacer/replacer.h \
  /usr/include/c++/7/unordered_map /usr/include/c++/7/bits/hashtable.h \
  /usr/include/c++/7/bits/hashtable_policy.h \
  /usr/include/c++/7/bits/node_handle.h /usr/include/c++/7/optional \

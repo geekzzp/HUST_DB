@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = -Drecords_EXPORTS
 
-CXX_INCLUDES = -I/home/zzp/x3z6tb8we220240613170711/rmdb/src
+CXX_INCLUDES = -I/home/zzp/HUST_DB/rmdb/src
 
 CXX_FLAGS = -Wall -O0 -g -ggdb3 -g -O0 -g -fPIC -std=gnu++1z
 

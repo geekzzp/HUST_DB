@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/zzp/x3z6tb8we220240613170711/rmdb/src/record/rm_file_handle.cpp" "src/record/CMakeFiles/records.dir/rm_file_handle.cpp.o" "gcc" "src/record/CMakeFiles/records.dir/rm_file_handle.cpp.o.d"
-  "/home/zzp/x3z6tb8we220240613170711/rmdb/src/record/rm_scan.cpp" "src/record/CMakeFiles/records.dir/rm_scan.cpp.o" "gcc" "src/record/CMakeFiles/records.dir/rm_scan.cpp.o.d"
+  "/home/zzp/HUST_DB/rmdb/src/record/rm_file_handle.cpp" "src/record/CMakeFiles/records.dir/rm_file_handle.cpp.o" "gcc" "src/record/CMakeFiles/records.dir/rm_file_handle.cpp.o.d"
+  "/home/zzp/HUST_DB/rmdb/src/record/rm_scan.cpp" "src/record/CMakeFiles/records.dir/rm_scan.cpp.o" "gcc" "src/record/CMakeFiles/records.dir/rm_scan.cpp.o.d"
   )
 
 # Targets to which this target links.

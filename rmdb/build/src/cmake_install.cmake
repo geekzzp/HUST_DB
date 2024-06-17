@@ -1,4 +1,4 @@
-# Install script for directory: /home/zzp/x3z6tb8we220240613170711/rmdb/src
+# Install script for directory: /home/zzp/HUST_DB/rmdb/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,51 +44,51 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/zzp/x3z6tb8we220240613170711/rmdb/build/src/record/cmake_install.cmake")
+  include("/home/zzp/HUST_DB/rmdb/build/src/record/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/zzp/x3z6tb8we220240613170711/rmdb/build/src/index/cmake_install.cmake")
+  include("/home/zzp/HUST_DB/rmdb/build/src/index/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/zzp/x3z6tb8we220240613170711/rmdb/build/src/system/cmake_install.cmake")
+  include("/home/zzp/HUST_DB/rmdb/build/src/system/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/zzp/x3z6tb8we220240613170711/rmdb/build/src/execution/cmake_install.cmake")
+  include("/home/zzp/HUST_DB/rmdb/build/src/execution/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/zzp/x3z6tb8we220240613170711/rmdb/build/src/parser/cmake_install.cmake")
+  include("/home/zzp/HUST_DB/rmdb/build/src/parser/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/zzp/x3z6tb8we220240613170711/rmdb/build/src/storage/cmake_install.cmake")
+  include("/home/zzp/HUST_DB/rmdb/build/src/storage/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/zzp/x3z6tb8we220240613170711/rmdb/build/src/common/cmake_install.cmake")
+  include("/home/zzp/HUST_DB/rmdb/build/src/common/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/zzp/x3z6tb8we220240613170711/rmdb/build/src/replacer/cmake_install.cmake")
+  include("/home/zzp/HUST_DB/rmdb/build/src/replacer/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/zzp/x3z6tb8we220240613170711/rmdb/build/src/transaction/cmake_install.cmake")
+  include("/home/zzp/HUST_DB/rmdb/build/src/transaction/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/zzp/x3z6tb8we220240613170711/rmdb/build/src/recovery/cmake_install.cmake")
+  include("/home/zzp/HUST_DB/rmdb/build/src/recovery/cmake_install.cmake")
 endif()
 

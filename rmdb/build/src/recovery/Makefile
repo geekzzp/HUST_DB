@@ -57,10 +57,10 @@ RM = /usr/local/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/zzp/x3z6tb8we220240613170711/rmdb
+CMAKE_SOURCE_DIR = /home/zzp/HUST_DB/rmdb
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/zzp/x3z6tb8we220240613170711/rmdb/build
+CMAKE_BINARY_DIR = /home/zzp/HUST_DB/rmdb/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -142,14 +142,14 @@ install/local/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/zzp/x3z6tb8we220240613170711/rmdb/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/zzp/x3z6tb8we220240613170711/rmdb/build/CMakeFiles /home/zzp/x3z6tb8we220240613170711/rmdb/build/src/recovery//CMakeFiles/progress.marks
-	cd /home/zzp/x3z6tb8we220240613170711/rmdb/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/recovery/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zzp/x3z6tb8we220240613170711/rmdb/build/CMakeFiles 0
+	cd /home/zzp/HUST_DB/rmdb/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/zzp/HUST_DB/rmdb/build/CMakeFiles /home/zzp/HUST_DB/rmdb/build/src/recovery//CMakeFiles/progress.marks
+	cd /home/zzp/HUST_DB/rmdb/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/recovery/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zzp/HUST_DB/rmdb/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/zzp/x3z6tb8we220240613170711/rmdb/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/recovery/clean
+	cd /home/zzp/HUST_DB/rmdb/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/recovery/clean
 .PHONY : clean
 
 # The main clean target
@@ -158,22 +158,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/zzp/x3z6tb8we220240613170711/rmdb/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/recovery/preinstall
+	cd /home/zzp/HUST_DB/rmdb/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/recovery/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/zzp/x3z6tb8we220240613170711/rmdb/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/recovery/preinstall
+	cd /home/zzp/HUST_DB/rmdb/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/recovery/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/zzp/x3z6tb8we220240613170711/rmdb/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /home/zzp/HUST_DB/rmdb/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 src/recovery/CMakeFiles/recoverys.dir/rule:
-	cd /home/zzp/x3z6tb8we220240613170711/rmdb/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/recovery/CMakeFiles/recoverys.dir/rule
+	cd /home/zzp/HUST_DB/rmdb/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/recovery/CMakeFiles/recoverys.dir/rule
 .PHONY : src/recovery/CMakeFiles/recoverys.dir/rule
 
 # Convenience name for target.
@@ -182,12 +182,12 @@ recoverys: src/recovery/CMakeFiles/recoverys.dir/rule
 
 # fast build rule for target.
 recoverys/fast:
-	cd /home/zzp/x3z6tb8we220240613170711/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recoverys.dir/build.make src/recovery/CMakeFiles/recoverys.dir/build
+	cd /home/zzp/HUST_DB/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recoverys.dir/build.make src/recovery/CMakeFiles/recoverys.dir/build
 .PHONY : recoverys/fast
 
 # Convenience name for target.
 src/recovery/CMakeFiles/recovery.dir/rule:
-	cd /home/zzp/x3z6tb8we220240613170711/rmdb/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/recovery/CMakeFiles/recovery.dir/rule
+	cd /home/zzp/HUST_DB/rmdb/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/recovery/CMakeFiles/recovery.dir/rule
 .PHONY : src/recovery/CMakeFiles/recovery.dir/rule
 
 # Convenience name for target.
@@ -196,7 +196,7 @@ recovery: src/recovery/CMakeFiles/recovery.dir/rule
 
 # fast build rule for target.
 recovery/fast:
-	cd /home/zzp/x3z6tb8we220240613170711/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recovery.dir/build.make src/recovery/CMakeFiles/recovery.dir/build
+	cd /home/zzp/HUST_DB/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recovery.dir/build.make src/recovery/CMakeFiles/recovery.dir/build
 .PHONY : recovery/fast
 
 checkpoint.o: checkpoint.cpp.o
@@ -204,8 +204,8 @@ checkpoint.o: checkpoint.cpp.o
 
 # target to build an object file
 checkpoint.cpp.o:
-	cd /home/zzp/x3z6tb8we220240613170711/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recoverys.dir/build.make src/recovery/CMakeFiles/recoverys.dir/checkpoint.cpp.o
-	cd /home/zzp/x3z6tb8we220240613170711/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recovery.dir/build.make src/recovery/CMakeFiles/recovery.dir/checkpoint.cpp.o
+	cd /home/zzp/HUST_DB/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recoverys.dir/build.make src/recovery/CMakeFiles/recoverys.dir/checkpoint.cpp.o
+	cd /home/zzp/HUST_DB/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recovery.dir/build.make src/recovery/CMakeFiles/recovery.dir/checkpoint.cpp.o
 .PHONY : checkpoint.cpp.o
 
 checkpoint.i: checkpoint.cpp.i
@@ -213,8 +213,8 @@ checkpoint.i: checkpoint.cpp.i
 
 # target to preprocess a source file
 checkpoint.cpp.i:
-	cd /home/zzp/x3z6tb8we220240613170711/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recoverys.dir/build.make src/recovery/CMakeFiles/recoverys.dir/checkpoint.cpp.i
-	cd /home/zzp/x3z6tb8we220240613170711/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recovery.dir/build.make src/recovery/CMakeFiles/recovery.dir/checkpoint.cpp.i
+	cd /home/zzp/HUST_DB/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recoverys.dir/build.make src/recovery/CMakeFiles/recoverys.dir/checkpoint.cpp.i
+	cd /home/zzp/HUST_DB/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recovery.dir/build.make src/recovery/CMakeFiles/recovery.dir/checkpoint.cpp.i
 .PHONY : checkpoint.cpp.i
 
 checkpoint.s: checkpoint.cpp.s
@@ -222,8 +222,8 @@ checkpoint.s: checkpoint.cpp.s
 
 # target to generate assembly for a file
 checkpoint.cpp.s:
-	cd /home/zzp/x3z6tb8we220240613170711/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recoverys.dir/build.make src/recovery/CMakeFiles/recoverys.dir/checkpoint.cpp.s
-	cd /home/zzp/x3z6tb8we220240613170711/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recovery.dir/build.make src/recovery/CMakeFiles/recovery.dir/checkpoint.cpp.s
+	cd /home/zzp/HUST_DB/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recoverys.dir/build.make src/recovery/CMakeFiles/recoverys.dir/checkpoint.cpp.s
+	cd /home/zzp/HUST_DB/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recovery.dir/build.make src/recovery/CMakeFiles/recovery.dir/checkpoint.cpp.s
 .PHONY : checkpoint.cpp.s
 
 log_manager.o: log_manager.cpp.o
@@ -231,8 +231,8 @@ log_manager.o: log_manager.cpp.o
 
 # target to build an object file
 log_manager.cpp.o:
-	cd /home/zzp/x3z6tb8we220240613170711/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recoverys.dir/build.make src/recovery/CMakeFiles/recoverys.dir/log_manager.cpp.o
-	cd /home/zzp/x3z6tb8we220240613170711/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recovery.dir/build.make src/recovery/CMakeFiles/recovery.dir/log_manager.cpp.o
+	cd /home/zzp/HUST_DB/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recoverys.dir/build.make src/recovery/CMakeFiles/recoverys.dir/log_manager.cpp.o
+	cd /home/zzp/HUST_DB/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recovery.dir/build.make src/recovery/CMakeFiles/recovery.dir/log_manager.cpp.o
 .PHONY : log_manager.cpp.o
 
 log_manager.i: log_manager.cpp.i
@@ -240,8 +240,8 @@ log_manager.i: log_manager.cpp.i
 
 # target to preprocess a source file
 log_manager.cpp.i:
-	cd /home/zzp/x3z6tb8we220240613170711/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recoverys.dir/build.make src/recovery/CMakeFiles/recoverys.dir/log_manager.cpp.i
-	cd /home/zzp/x3z6tb8we220240613170711/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recovery.dir/build.make src/recovery/CMakeFiles/recovery.dir/log_manager.cpp.i
+	cd /home/zzp/HUST_DB/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recoverys.dir/build.make src/recovery/CMakeFiles/recoverys.dir/log_manager.cpp.i
+	cd /home/zzp/HUST_DB/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recovery.dir/build.make src/recovery/CMakeFiles/recovery.dir/log_manager.cpp.i
 .PHONY : log_manager.cpp.i
 
 log_manager.s: log_manager.cpp.s
@@ -249,8 +249,8 @@ log_manager.s: log_manager.cpp.s
 
 # target to generate assembly for a file
 log_manager.cpp.s:
-	cd /home/zzp/x3z6tb8we220240613170711/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recoverys.dir/build.make src/recovery/CMakeFiles/recoverys.dir/log_manager.cpp.s
-	cd /home/zzp/x3z6tb8we220240613170711/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recovery.dir/build.make src/recovery/CMakeFiles/recovery.dir/log_manager.cpp.s
+	cd /home/zzp/HUST_DB/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recoverys.dir/build.make src/recovery/CMakeFiles/recoverys.dir/log_manager.cpp.s
+	cd /home/zzp/HUST_DB/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recovery.dir/build.make src/recovery/CMakeFiles/recovery.dir/log_manager.cpp.s
 .PHONY : log_manager.cpp.s
 
 log_recovery.o: log_recovery.cpp.o
@@ -258,8 +258,8 @@ log_recovery.o: log_recovery.cpp.o
 
 # target to build an object file
 log_recovery.cpp.o:
-	cd /home/zzp/x3z6tb8we220240613170711/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recoverys.dir/build.make src/recovery/CMakeFiles/recoverys.dir/log_recovery.cpp.o
-	cd /home/zzp/x3z6tb8we220240613170711/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recovery.dir/build.make src/recovery/CMakeFiles/recovery.dir/log_recovery.cpp.o
+	cd /home/zzp/HUST_DB/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recoverys.dir/build.make src/recovery/CMakeFiles/recoverys.dir/log_recovery.cpp.o
+	cd /home/zzp/HUST_DB/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recovery.dir/build.make src/recovery/CMakeFiles/recovery.dir/log_recovery.cpp.o
 .PHONY : log_recovery.cpp.o
 
 log_recovery.i: log_recovery.cpp.i
@@ -267,8 +267,8 @@ log_recovery.i: log_recovery.cpp.i
 
 # target to preprocess a source file
 log_recovery.cpp.i:
-	cd /home/zzp/x3z6tb8we220240613170711/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recoverys.dir/build.make src/recovery/CMakeFiles/recoverys.dir/log_recovery.cpp.i
-	cd /home/zzp/x3z6tb8we220240613170711/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recovery.dir/build.make src/recovery/CMakeFiles/recovery.dir/log_recovery.cpp.i
+	cd /home/zzp/HUST_DB/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recoverys.dir/build.make src/recovery/CMakeFiles/recoverys.dir/log_recovery.cpp.i
+	cd /home/zzp/HUST_DB/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recovery.dir/build.make src/recovery/CMakeFiles/recovery.dir/log_recovery.cpp.i
 .PHONY : log_recovery.cpp.i
 
 log_recovery.s: log_recovery.cpp.s
@@ -276,8 +276,8 @@ log_recovery.s: log_recovery.cpp.s
 
 # target to generate assembly for a file
 log_recovery.cpp.s:
-	cd /home/zzp/x3z6tb8we220240613170711/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recoverys.dir/build.make src/recovery/CMakeFiles/recoverys.dir/log_recovery.cpp.s
-	cd /home/zzp/x3z6tb8we220240613170711/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recovery.dir/build.make src/recovery/CMakeFiles/recovery.dir/log_recovery.cpp.s
+	cd /home/zzp/HUST_DB/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recoverys.dir/build.make src/recovery/CMakeFiles/recoverys.dir/log_recovery.cpp.s
+	cd /home/zzp/HUST_DB/rmdb/build && $(MAKE) $(MAKESILENT) -f src/recovery/CMakeFiles/recovery.dir/build.make src/recovery/CMakeFiles/recovery.dir/log_recovery.cpp.s
 .PHONY : log_recovery.cpp.s
 
 # Help Target
@@ -315,6 +315,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/zzp/x3z6tb8we220240613170711/rmdb/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /home/zzp/HUST_DB/rmdb/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

@@ -1,8 +1,6 @@
 src/index/CMakeFiles/index.dir/__/common/rwlatch.cpp.o: \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/common/rwlatch.cpp \
- /usr/include/stdc-predef.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/common/rwlatch.h \
- /usr/include/c++/7/climits \
+ /home/zzp/HUST_DB/rmdb/src/common/rwlatch.cpp /usr/include/stdc-predef.h \
+ /home/zzp/HUST_DB/rmdb/src/common/rwlatch.h /usr/include/c++/7/climits \
  /usr/include/x86_64-linux-gnu/c++/7/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/7/bits/os_defines.h \
  /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
@@ -143,5 +141,5 @@ src/index/CMakeFiles/index.dir/__/common/rwlatch.cpp.o: \
  /usr/include/c++/7/bits/allocated_ptr.h \
  /usr/include/c++/7/bits/refwrap.h \
  /usr/include/c++/7/ext/aligned_buffer.h /usr/include/c++/7/mutex \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/common/macros.h \
- /usr/include/c++/7/cassert /usr/include/assert.h
+ /home/zzp/HUST_DB/rmdb/src/common/macros.h /usr/include/c++/7/cassert \
+ /usr/include/assert.h

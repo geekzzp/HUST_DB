@@ -8,14 +8,14 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/zzp/x3z6tb8we220240613170711/rmdb/src/storage/disk_manager_test.cpp" "src/storage/CMakeFiles/disk_manager_test.dir/disk_manager_test.cpp.o" "gcc" "src/storage/CMakeFiles/disk_manager_test.dir/disk_manager_test.cpp.o.d"
+  "/home/zzp/HUST_DB/rmdb/src/storage/disk_manager_test.cpp" "src/storage/CMakeFiles/disk_manager_test.dir/disk_manager_test.cpp.o" "gcc" "src/storage/CMakeFiles/disk_manager_test.dir/disk_manager_test.cpp.o.d"
   )
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/zzp/x3z6tb8we220240613170711/rmdb/build/src/storage/CMakeFiles/disk.dir/DependInfo.cmake"
-  "/home/zzp/x3z6tb8we220240613170711/rmdb/build/deps/googletest/googletest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
-  "/home/zzp/x3z6tb8we220240613170711/rmdb/build/deps/googletest/googletest/CMakeFiles/gtest.dir/DependInfo.cmake"
+  "/home/zzp/HUST_DB/rmdb/build/src/storage/CMakeFiles/disk.dir/DependInfo.cmake"
+  "/home/zzp/HUST_DB/rmdb/build/deps/googletest/googletest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
+  "/home/zzp/HUST_DB/rmdb/build/deps/googletest/googletest/CMakeFiles/gtest.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

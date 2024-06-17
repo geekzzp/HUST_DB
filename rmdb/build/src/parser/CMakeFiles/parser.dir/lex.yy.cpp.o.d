@@ -1,6 +1,6 @@
 src/parser/CMakeFiles/parser.dir/lex.yy.cpp.o: \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/parser/lex.yy.cpp \
- /usr/include/stdc-predef.h /usr/include/stdio.h \
+ /home/zzp/HUST_DB/rmdb/src/parser/lex.yy.cpp /usr/include/stdc-predef.h \
+ /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -55,8 +55,8 @@ src/parser/CMakeFiles/parser.dir/lex.yy.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
  /usr/include/alloca.h /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
  /usr/include/c++/7/bits/std_abs.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/parser/ast.h \
- /usr/include/c++/7/vector /usr/include/c++/7/bits/stl_algobase.h \
+ /home/zzp/HUST_DB/rmdb/src/parser/ast.h /usr/include/c++/7/vector \
+ /usr/include/c++/7/bits/stl_algobase.h \
  /usr/include/c++/7/bits/functexcept.h \
  /usr/include/c++/7/bits/exception_defines.h \
  /usr/include/c++/7/bits/cpp_type_traits.h \
@@ -139,9 +139,9 @@ src/parser/CMakeFiles/parser.dir/lex.yy.cpp.o: \
  /usr/include/c++/7/bits/atomic_base.h \
  /usr/include/c++/7/bits/atomic_lockfree_defines.h \
  /usr/include/c++/7/backward/auto_ptr.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/parser/yacc.tab.h \
- /usr/include/c++/7/iostream /usr/include/c++/7/ostream \
- /usr/include/c++/7/ios /usr/include/c++/7/bits/ios_base.h \
+ /home/zzp/HUST_DB/rmdb/src/parser/yacc.tab.h /usr/include/c++/7/iostream \
+ /usr/include/c++/7/ostream /usr/include/c++/7/ios \
+ /usr/include/c++/7/bits/ios_base.h \
  /usr/include/c++/7/bits/locale_classes.h \
  /usr/include/c++/7/bits/locale_classes.tcc \
  /usr/include/c++/7/system_error \

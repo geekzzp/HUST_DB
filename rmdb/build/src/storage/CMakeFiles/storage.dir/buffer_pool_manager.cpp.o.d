@@ -1,7 +1,7 @@
 src/storage/CMakeFiles/storage.dir/buffer_pool_manager.cpp.o: \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/storage/buffer_pool_manager.cpp \
+ /home/zzp/HUST_DB/rmdb/src/storage/buffer_pool_manager.cpp \
  /usr/include/stdc-predef.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/storage/buffer_pool_manager.h \
+ /home/zzp/HUST_DB/rmdb/src/storage/buffer_pool_manager.h \
  /usr/include/fcntl.h /usr/include/features.h \
  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -146,9 +146,8 @@ src/storage/CMakeFiles/storage.dir/buffer_pool_manager.cpp.o: \
  /usr/include/c++/7/bits/stl_uninitialized.h \
  /usr/include/c++/7/bits/stl_vector.h \
  /usr/include/c++/7/bits/stl_bvector.h /usr/include/c++/7/bits/vector.tcc \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/common/logger.h \
- /usr/include/c++/7/ctime \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/storage/disk_manager.h \
+ /home/zzp/HUST_DB/rmdb/src/common/logger.h /usr/include/c++/7/ctime \
+ /home/zzp/HUST_DB/rmdb/src/storage/disk_manager.h \
  /usr/include/x86_64-linux-gnu/sys/stat.h /usr/include/c++/7/atomic \
  /usr/include/c++/7/bits/atomic_base.h \
  /usr/include/c++/7/bits/atomic_lockfree_defines.h \
@@ -172,14 +171,12 @@ src/storage/CMakeFiles/storage.dir/buffer_pool_manager.cpp.o: \
  /usr/include/x86_64-linux-gnu/c++/7/bits/basic_file.h \
  /usr/include/x86_64-linux-gnu/c++/7/bits/c++io.h \
  /usr/include/c++/7/bits/fstream.tcc /usr/include/c++/7/iostream \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/common/config.h \
- /usr/include/c++/7/chrono /usr/include/c++/7/ratio \
- /usr/include/c++/7/bits/parse_numbers.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/errors.h \
- /usr/include/c++/7/cstring /usr/include/string.h /usr/include/strings.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/storage/page.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/common/rwlatch.h \
- /usr/include/c++/7/climits \
+ /home/zzp/HUST_DB/rmdb/src/common/config.h /usr/include/c++/7/chrono \
+ /usr/include/c++/7/ratio /usr/include/c++/7/bits/parse_numbers.h \
+ /home/zzp/HUST_DB/rmdb/src/errors.h /usr/include/c++/7/cstring \
+ /usr/include/string.h /usr/include/strings.h \
+ /home/zzp/HUST_DB/rmdb/src/storage/page.h \
+ /home/zzp/HUST_DB/rmdb/src/common/rwlatch.h /usr/include/c++/7/climits \
  /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/syslimits.h \
  /usr/include/limits.h /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
@@ -194,7 +191,7 @@ src/storage/CMakeFiles/storage.dir/buffer_pool_manager.cpp.o: \
  /usr/include/c++/7/bits/shared_ptr.h \
  /usr/include/c++/7/bits/shared_ptr_base.h \
  /usr/include/c++/7/bits/refwrap.h /usr/include/c++/7/mutex \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/common/macros.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/replacer/clock_replacer.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/replacer/replacer.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/replacer/lru_replacer.h
+ /home/zzp/HUST_DB/rmdb/src/common/macros.h \
+ /home/zzp/HUST_DB/rmdb/src/replacer/clock_replacer.h \
+ /home/zzp/HUST_DB/rmdb/src/replacer/replacer.h \
+ /home/zzp/HUST_DB/rmdb/src/replacer/lru_replacer.h

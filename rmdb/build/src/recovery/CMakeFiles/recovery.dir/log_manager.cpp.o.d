@@ -1,10 +1,10 @@
 src/recovery/CMakeFiles/recovery.dir/log_manager.cpp.o: \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/recovery/log_manager.cpp \
+ /home/zzp/HUST_DB/rmdb/src/recovery/log_manager.cpp \
  /usr/include/stdc-predef.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/recovery/log_manager.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/recovery/log_record.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/system/sm_meta.h \
- /usr/include/c++/7/algorithm /usr/include/c++/7/utility \
+ /home/zzp/HUST_DB/rmdb/src/recovery/log_manager.h \
+ /home/zzp/HUST_DB/rmdb/src/recovery/log_record.h \
+ /home/zzp/HUST_DB/rmdb/src/system/sm_meta.h /usr/include/c++/7/algorithm \
+ /usr/include/c++/7/utility \
  /usr/include/x86_64-linux-gnu/c++/7/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/7/bits/os_defines.h \
  /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
@@ -152,13 +152,13 @@ src/recovery/CMakeFiles/recovery.dir/log_manager.cpp.o: \
  /usr/include/c++/7/vector /usr/include/c++/7/bits/stl_uninitialized.h \
  /usr/include/c++/7/bits/stl_vector.h \
  /usr/include/c++/7/bits/stl_bvector.h /usr/include/c++/7/bits/vector.tcc \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/errors.h \
- /usr/include/c++/7/cstring /usr/include/string.h /usr/include/strings.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/system/sm_defs.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/defs.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/recovery/log_defs.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/storage/disk_manager.h \
- /usr/include/fcntl.h /usr/include/x86_64-linux-gnu/bits/fcntl.h \
+ /home/zzp/HUST_DB/rmdb/src/errors.h /usr/include/c++/7/cstring \
+ /usr/include/string.h /usr/include/strings.h \
+ /home/zzp/HUST_DB/rmdb/src/system/sm_defs.h \
+ /home/zzp/HUST_DB/rmdb/src/defs.h \
+ /home/zzp/HUST_DB/rmdb/src/recovery/log_defs.h \
+ /home/zzp/HUST_DB/rmdb/src/storage/disk_manager.h /usr/include/fcntl.h \
+ /usr/include/x86_64-linux-gnu/bits/fcntl.h \
  /usr/include/x86_64-linux-gnu/bits/fcntl-linux.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_iovec.h \
  /usr/include/linux/falloc.h /usr/include/x86_64-linux-gnu/bits/stat.h \
@@ -177,19 +177,18 @@ src/recovery/CMakeFiles/recovery.dir/log_manager.cpp.o: \
  /usr/include/c++/7/bits/hashtable.h \
  /usr/include/c++/7/bits/hashtable_policy.h \
  /usr/include/c++/7/bits/unordered_map.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/common/config.h \
- /usr/include/c++/7/chrono /usr/include/c++/7/ratio \
- /usr/include/c++/7/ctime /usr/include/c++/7/bits/parse_numbers.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/record/rm_defs.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/common/macros.h \
- /usr/include/c++/7/cassert /usr/include/assert.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/storage/buffer_pool_manager.h \
+ /home/zzp/HUST_DB/rmdb/src/common/config.h /usr/include/c++/7/chrono \
+ /usr/include/c++/7/ratio /usr/include/c++/7/ctime \
+ /usr/include/c++/7/bits/parse_numbers.h \
+ /home/zzp/HUST_DB/rmdb/src/record/rm_defs.h \
+ /home/zzp/HUST_DB/rmdb/src/common/macros.h /usr/include/c++/7/cassert \
+ /usr/include/assert.h \
+ /home/zzp/HUST_DB/rmdb/src/storage/buffer_pool_manager.h \
  /usr/include/c++/7/list /usr/include/c++/7/bits/stl_list.h \
  /usr/include/c++/7/bits/allocated_ptr.h /usr/include/c++/7/bits/list.tcc \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/common/logger.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/storage/page.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/common/rwlatch.h \
- /usr/include/c++/7/climits \
+ /home/zzp/HUST_DB/rmdb/src/common/logger.h \
+ /home/zzp/HUST_DB/rmdb/src/storage/page.h \
+ /home/zzp/HUST_DB/rmdb/src/common/rwlatch.h /usr/include/c++/7/climits \
  /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/syslimits.h \
  /usr/include/limits.h /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
@@ -204,9 +203,9 @@ src/recovery/CMakeFiles/recovery.dir/log_manager.cpp.o: \
  /usr/include/c++/7/bits/shared_ptr.h \
  /usr/include/c++/7/bits/shared_ptr_base.h \
  /usr/include/c++/7/bits/refwrap.h /usr/include/c++/7/mutex \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/replacer/clock_replacer.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/replacer/replacer.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/replacer/lru_replacer.h \
+ /home/zzp/HUST_DB/rmdb/src/replacer/clock_replacer.h \
+ /home/zzp/HUST_DB/rmdb/src/replacer/replacer.h \
+ /home/zzp/HUST_DB/rmdb/src/replacer/lru_replacer.h \
  /usr/include/c++/7/thread /usr/include/c++/7/memory \
  /usr/include/c++/7/bits/stl_raw_storage_iter.h \
  /usr/include/c++/7/bits/shared_ptr_atomic.h \

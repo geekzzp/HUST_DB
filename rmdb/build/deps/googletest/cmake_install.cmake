@@ -1,4 +1,4 @@
-# Install script for directory: /home/zzp/x3z6tb8we220240613170711/rmdb/deps/googletest
+# Install script for directory: /home/zzp/HUST_DB/rmdb/deps/googletest
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,7 +44,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/zzp/x3z6tb8we220240613170711/rmdb/build/deps/googletest/googlemock/cmake_install.cmake")
+  include("/home/zzp/HUST_DB/rmdb/build/deps/googletest/googlemock/cmake_install.cmake")
 
 endif()
 

@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/zzp/x3z6tb8we220240613170711/rmdb/src/storage/disk_manager.cpp" "src/storage/CMakeFiles/disk.dir/disk_manager.cpp.o" "gcc" "src/storage/CMakeFiles/disk.dir/disk_manager.cpp.o.d"
+  "/home/zzp/HUST_DB/rmdb/src/storage/disk_manager.cpp" "src/storage/CMakeFiles/disk.dir/disk_manager.cpp.o" "gcc" "src/storage/CMakeFiles/disk.dir/disk_manager.cpp.o.d"
   )
 
 # Targets to which this target links.

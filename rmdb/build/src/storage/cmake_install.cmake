@@ -1,4 +1,4 @@
-# Install script for directory: /home/zzp/x3z6tb8we220240613170711/rmdb/src/storage
+# Install script for directory: /home/zzp/HUST_DB/rmdb/src/storage
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

@@ -1,4 +1,4 @@
-# Install script for directory: /home/zzp/x3z6tb8we220240613170711/rmdb
+# Install script for directory: /home/zzp/HUST_DB/rmdb
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,12 +44,12 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/zzp/x3z6tb8we220240613170711/rmdb/build/src/cmake_install.cmake")
+  include("/home/zzp/HUST_DB/rmdb/build/src/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/zzp/x3z6tb8we220240613170711/rmdb/build/deps/cmake_install.cmake")
+  include("/home/zzp/HUST_DB/rmdb/build/deps/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -60,5 +60,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/zzp/x3z6tb8we220240613170711/rmdb/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/zzp/HUST_DB/rmdb/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

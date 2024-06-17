@@ -1,9 +1,8 @@
 src/storage/CMakeFiles/storage.dir/disk_manager.cpp.o: \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/storage/disk_manager.cpp \
+ /home/zzp/HUST_DB/rmdb/src/storage/disk_manager.cpp \
  /usr/include/stdc-predef.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/storage/disk_manager.h \
- /usr/include/fcntl.h /usr/include/features.h \
- /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /home/zzp/HUST_DB/rmdb/src/storage/disk_manager.h /usr/include/fcntl.h \
+ /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
  /usr/include/x86_64-linux-gnu/bits/long-double.h \
  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
@@ -160,11 +159,11 @@ src/storage/CMakeFiles/storage.dir/disk_manager.cpp.o: \
  /usr/include/c++/7/bits/node_handle.h /usr/include/c++/7/optional \
  /usr/include/c++/7/bits/enable_special_members.h \
  /usr/include/c++/7/bits/unordered_map.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/common/config.h \
- /usr/include/c++/7/chrono /usr/include/c++/7/ratio \
- /usr/include/c++/7/ctime /usr/include/c++/7/bits/parse_numbers.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/errors.h \
- /usr/include/c++/7/cstring /usr/include/string.h /usr/include/strings.h \
- /usr/include/assert.h /home/zzp/x3z6tb8we220240613170711/rmdb/src/defs.h \
- /usr/include/c++/7/map /usr/include/c++/7/bits/stl_tree.h \
- /usr/include/c++/7/bits/stl_map.h /usr/include/c++/7/bits/stl_multimap.h
+ /home/zzp/HUST_DB/rmdb/src/common/config.h /usr/include/c++/7/chrono \
+ /usr/include/c++/7/ratio /usr/include/c++/7/ctime \
+ /usr/include/c++/7/bits/parse_numbers.h \
+ /home/zzp/HUST_DB/rmdb/src/errors.h /usr/include/c++/7/cstring \
+ /usr/include/string.h /usr/include/strings.h /usr/include/assert.h \
+ /home/zzp/HUST_DB/rmdb/src/defs.h /usr/include/c++/7/map \
+ /usr/include/c++/7/bits/stl_tree.h /usr/include/c++/7/bits/stl_map.h \
+ /usr/include/c++/7/bits/stl_multimap.h

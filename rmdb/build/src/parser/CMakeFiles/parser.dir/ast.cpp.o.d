@@ -1,8 +1,7 @@
 src/parser/CMakeFiles/parser.dir/ast.cpp.o: \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/parser/ast.cpp \
- /usr/include/stdc-predef.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/parser/ast.h \
- /usr/include/c++/7/vector /usr/include/c++/7/bits/stl_algobase.h \
+ /home/zzp/HUST_DB/rmdb/src/parser/ast.cpp /usr/include/stdc-predef.h \
+ /home/zzp/HUST_DB/rmdb/src/parser/ast.h /usr/include/c++/7/vector \
+ /usr/include/c++/7/bits/stl_algobase.h \
  /usr/include/x86_64-linux-gnu/c++/7/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/7/bits/os_defines.h \
  /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \

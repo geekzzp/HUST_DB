@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/zzp/x3z6tb8we220240613170711/rmdb/src -isystem /home/zzp/x3z6tb8we220240613170711/rmdb/deps/googletest/googletest/include -isystem /home/zzp/x3z6tb8we220240613170711/rmdb/deps/googletest/googletest
+CXX_INCLUDES = -I/home/zzp/HUST_DB/rmdb/src -isystem /home/zzp/HUST_DB/rmdb/deps/googletest/googletest/include -isystem /home/zzp/HUST_DB/rmdb/deps/googletest/googletest
 
 CXX_FLAGS = -Wall -O0 -g -ggdb3 -g -O0 -g -std=gnu++1z
 

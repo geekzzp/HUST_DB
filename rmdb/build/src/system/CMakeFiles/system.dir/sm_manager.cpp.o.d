@@ -1,12 +1,11 @@
 src/system/CMakeFiles/system.dir/sm_manager.cpp.o: \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/system/sm_manager.cpp \
+ /home/zzp/HUST_DB/rmdb/src/system/sm_manager.cpp \
  /usr/include/stdc-predef.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/system/sm_manager.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/index/ix.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/index/ix_scan.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/index/ix_defs.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/defs.h \
- /usr/include/c++/7/iostream \
+ /home/zzp/HUST_DB/rmdb/src/system/sm_manager.h \
+ /home/zzp/HUST_DB/rmdb/src/index/ix.h \
+ /home/zzp/HUST_DB/rmdb/src/index/ix_scan.h \
+ /home/zzp/HUST_DB/rmdb/src/index/ix_defs.h \
+ /home/zzp/HUST_DB/rmdb/src/defs.h /usr/include/c++/7/iostream \
  /usr/include/x86_64-linux-gnu/c++/7/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/7/bits/os_defines.h \
  /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
@@ -146,7 +145,7 @@ src/system/CMakeFiles/system.dir/sm_manager.cpp.o: \
  /usr/include/c++/7/bits/stl_map.h /usr/include/c++/7/tuple \
  /usr/include/c++/7/array /usr/include/c++/7/bits/uses_allocator.h \
  /usr/include/c++/7/bits/invoke.h /usr/include/c++/7/bits/stl_multimap.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/storage/buffer_pool_manager.h \
+ /home/zzp/HUST_DB/rmdb/src/storage/buffer_pool_manager.h \
  /usr/include/fcntl.h /usr/include/x86_64-linux-gnu/bits/fcntl.h \
  /usr/include/x86_64-linux-gnu/bits/fcntl-linux.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_iovec.h \
@@ -166,9 +165,8 @@ src/system/CMakeFiles/system.dir/sm_manager.cpp.o: \
  /usr/include/c++/7/bits/stl_uninitialized.h \
  /usr/include/c++/7/bits/stl_vector.h \
  /usr/include/c++/7/bits/stl_bvector.h /usr/include/c++/7/bits/vector.tcc \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/common/logger.h \
- /usr/include/c++/7/ctime \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/storage/disk_manager.h \
+ /home/zzp/HUST_DB/rmdb/src/common/logger.h /usr/include/c++/7/ctime \
+ /home/zzp/HUST_DB/rmdb/src/storage/disk_manager.h \
  /usr/include/x86_64-linux-gnu/sys/stat.h /usr/include/c++/7/atomic \
  /usr/include/c++/7/bits/atomic_base.h \
  /usr/include/c++/7/bits/atomic_lockfree_defines.h \
@@ -176,14 +174,12 @@ src/system/CMakeFiles/system.dir/sm_manager.cpp.o: \
  /usr/include/x86_64-linux-gnu/c++/7/bits/basic_file.h \
  /usr/include/x86_64-linux-gnu/c++/7/bits/c++io.h \
  /usr/include/c++/7/bits/fstream.tcc \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/common/config.h \
- /usr/include/c++/7/chrono /usr/include/c++/7/ratio \
- /usr/include/c++/7/bits/parse_numbers.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/errors.h \
- /usr/include/c++/7/cstring /usr/include/string.h /usr/include/strings.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/storage/page.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/common/rwlatch.h \
- /usr/include/c++/7/climits \
+ /home/zzp/HUST_DB/rmdb/src/common/config.h /usr/include/c++/7/chrono \
+ /usr/include/c++/7/ratio /usr/include/c++/7/bits/parse_numbers.h \
+ /home/zzp/HUST_DB/rmdb/src/errors.h /usr/include/c++/7/cstring \
+ /usr/include/string.h /usr/include/strings.h \
+ /home/zzp/HUST_DB/rmdb/src/storage/page.h \
+ /home/zzp/HUST_DB/rmdb/src/common/rwlatch.h /usr/include/c++/7/climits \
  /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
  /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/syslimits.h \
  /usr/include/limits.h /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
@@ -198,13 +194,13 @@ src/system/CMakeFiles/system.dir/sm_manager.cpp.o: \
  /usr/include/c++/7/bits/shared_ptr.h \
  /usr/include/c++/7/bits/shared_ptr_base.h \
  /usr/include/c++/7/bits/refwrap.h /usr/include/c++/7/mutex \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/common/macros.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/replacer/clock_replacer.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/replacer/replacer.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/replacer/lru_replacer.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/index/ix_index_handle.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/index/ix_node_handle.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/transaction/transaction.h \
+ /home/zzp/HUST_DB/rmdb/src/common/macros.h \
+ /home/zzp/HUST_DB/rmdb/src/replacer/clock_replacer.h \
+ /home/zzp/HUST_DB/rmdb/src/replacer/replacer.h \
+ /home/zzp/HUST_DB/rmdb/src/replacer/lru_replacer.h \
+ /home/zzp/HUST_DB/rmdb/src/index/ix_index_handle.h \
+ /home/zzp/HUST_DB/rmdb/src/index/ix_node_handle.h \
+ /home/zzp/HUST_DB/rmdb/src/transaction/transaction.h \
  /usr/include/c++/7/deque /usr/include/c++/7/bits/stl_deque.h \
  /usr/include/c++/7/bits/deque.tcc /usr/include/c++/7/thread \
  /usr/include/c++/7/memory /usr/include/c++/7/bits/stl_tempbuf.h \
@@ -212,31 +208,29 @@ src/system/CMakeFiles/system.dir/sm_manager.cpp.o: \
  /usr/include/c++/7/bits/shared_ptr_atomic.h \
  /usr/include/c++/7/backward/auto_ptr.h /usr/include/c++/7/unordered_set \
  /usr/include/c++/7/bits/unordered_set.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/transaction/txn_defs.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/record/rm_defs.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/index/ix_manager.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/common/context.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/transaction/concurrency/lock_manager.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/recovery/log_manager.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/recovery/log_record.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/system/sm_meta.h \
- /usr/include/c++/7/algorithm /usr/include/c++/7/bits/stl_algo.h \
+ /home/zzp/HUST_DB/rmdb/src/transaction/txn_defs.h \
+ /home/zzp/HUST_DB/rmdb/src/record/rm_defs.h \
+ /home/zzp/HUST_DB/rmdb/src/index/ix_manager.h \
+ /home/zzp/HUST_DB/rmdb/src/common/context.h \
+ /home/zzp/HUST_DB/rmdb/src/transaction/concurrency/lock_manager.h \
+ /home/zzp/HUST_DB/rmdb/src/recovery/log_manager.h \
+ /home/zzp/HUST_DB/rmdb/src/recovery/log_record.h \
+ /home/zzp/HUST_DB/rmdb/src/system/sm_meta.h /usr/include/c++/7/algorithm \
+ /usr/include/c++/7/bits/stl_algo.h \
  /usr/include/c++/7/bits/algorithmfwd.h \
  /usr/include/c++/7/bits/stl_heap.h \
  /usr/include/c++/7/bits/uniform_int_dist.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/system/sm_defs.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/recovery/log_defs.h \
- /usr/include/c++/7/future /usr/include/c++/7/bits/atomic_futex.h \
+ /home/zzp/HUST_DB/rmdb/src/system/sm_defs.h \
+ /home/zzp/HUST_DB/rmdb/src/recovery/log_defs.h /usr/include/c++/7/future \
+ /usr/include/c++/7/bits/atomic_futex.h \
  /usr/include/c++/7/bits/std_function.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/record/rm_file_handle.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/record/bitmap.h \
- /usr/include/c++/7/cinttypes /usr/include/inttypes.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/record/rm.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/record/rm_scan.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/record/rm_manager.h \
- /home/zzp/x3z6tb8we220240613170711/rmdb/src/record_printer.h \
- /usr/include/c++/7/iomanip /usr/include/c++/7/locale \
- /usr/include/c++/7/bits/locale_facets_nonio.h \
+ /home/zzp/HUST_DB/rmdb/src/record/rm_file_handle.h \
+ /home/zzp/HUST_DB/rmdb/src/record/bitmap.h /usr/include/c++/7/cinttypes \
+ /usr/include/inttypes.h /home/zzp/HUST_DB/rmdb/src/record/rm.h \
+ /home/zzp/HUST_DB/rmdb/src/record/rm_scan.h \
+ /home/zzp/HUST_DB/rmdb/src/record/rm_manager.h \
+ /home/zzp/HUST_DB/rmdb/src/record_printer.h /usr/include/c++/7/iomanip \
+ /usr/include/c++/7/locale /usr/include/c++/7/bits/locale_facets_nonio.h \
  /usr/include/x86_64-linux-gnu/c++/7/bits/time_members.h \
  /usr/include/x86_64-linux-gnu/c++/7/bits/messages_members.h \
  /usr/include/libintl.h /usr/include/c++/7/bits/locale_facets_nonio.tcc \

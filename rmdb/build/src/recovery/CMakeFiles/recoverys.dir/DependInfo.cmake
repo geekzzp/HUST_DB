@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/zzp/x3z6tb8we220240613170711/rmdb/src/recovery/checkpoint.cpp" "src/recovery/CMakeFiles/recoverys.dir/checkpoint.cpp.o" "gcc" "src/recovery/CMakeFiles/recoverys.dir/checkpoint.cpp.o.d"
-  "/home/zzp/x3z6tb8we220240613170711/rmdb/src/recovery/log_manager.cpp" "src/recovery/CMakeFiles/recoverys.dir/log_manager.cpp.o" "gcc" "src/recovery/CMakeFiles/recoverys.dir/log_manager.cpp.o.d"
-  "/home/zzp/x3z6tb8we220240613170711/rmdb/src/recovery/log_recovery.cpp" "src/recovery/CMakeFiles/recoverys.dir/log_recovery.cpp.o" "gcc" "src/recovery/CMakeFiles/recoverys.dir/log_recovery.cpp.o.d"
+  "/home/zzp/HUST_DB/rmdb/src/recovery/checkpoint.cpp" "src/recovery/CMakeFiles/recoverys.dir/checkpoint.cpp.o" "gcc" "src/recovery/CMakeFiles/recoverys.dir/checkpoint.cpp.o.d"
+  "/home/zzp/HUST_DB/rmdb/src/recovery/log_manager.cpp" "src/recovery/CMakeFiles/recoverys.dir/log_manager.cpp.o" "gcc" "src/recovery/CMakeFiles/recoverys.dir/log_manager.cpp.o.d"
+  "/home/zzp/HUST_DB/rmdb/src/recovery/log_recovery.cpp" "src/recovery/CMakeFiles/recoverys.dir/log_recovery.cpp.o" "gcc" "src/recovery/CMakeFiles/recoverys.dir/log_recovery.cpp.o.d"
   )
 
 # Targets to which this target links.
