@@ -93,13 +93,15 @@ bool DiskManager::is_dir(const std::string &path) {
 }
 
 void DiskManager::create_dir(const std::string &path) {
-    if (mkdir(path.c_str(), 0777) != 0 && errno != EEXIST) {
+    std::string cmd = "mkdir " + path;
+    if (system(cmd.c_str()) < 0) {  // 创建一个名为path的目录
         throw UnixError();
     }
 }
 
 void DiskManager::destroy_dir(const std::string &path) {
-    if (rmdir(path.c_str()) != 0) {
+    std::string cmd = "rm -r " + path;
+    if (system(cmd.c_str()) < 0) {
         throw UnixError();
     }
 }
